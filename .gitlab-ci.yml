@@ -1,0 +1,9 @@
+image: python:3.9
+stages:
+  - build 
+
+PythonBuild: 
+  stage: build 
+  script: 
+    - pip install -U aiogram
+    - python src/prototype/main.py
