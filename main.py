@@ -7,7 +7,7 @@ import asyncio
 import logging
 import kernel.bus as kern
 
-API_TOKEN = '5541427227:AAFp1dArM9AHBMz2ubOgL9KmiRs3JlI_OLU'
+API_TOKEN = '<insert your api-token>'
 
 logging.basicConfig(level=logging.INFO)
 storage = MemoryStorage()
