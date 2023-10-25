@@ -10,6 +10,8 @@
 ### :man_technologist: Нужная вам инфа :
 <div>
   <i>create database s21_bot;</i>
+</div>
+<div>
   <i>\c s21_bot</i>
 </div>
 <div>
