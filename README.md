@@ -10,6 +10,7 @@
 ### :man_technologist: Нужная вам инфа :
 <div>
   <i>create database s21_bot;</i>
+  <i>\c s21_bot</i>
 </div>
 <div>
   <i>create table user</i>(<i>id serial primary key</i>,
