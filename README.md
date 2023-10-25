@@ -9,6 +9,12 @@
 
 ### :man_technologist: Нужная вам инфа :
 <div>
+  <i>sudo su postgres</i>
+</div>
+<div>
+  <i>psql</i>
+</div>
+<div>
   <i>create database s21_bot;</i>
 </div>
 <div>
