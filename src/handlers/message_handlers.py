@@ -3,16 +3,11 @@
 """
 
 
-from aiogram.enums import ContentType
 from aiogram.filters import Command
-from aiogram.types import Message, ReplyKeyboardRemove
-from aiogram import Bot, Router, F
+from aiogram.types import Message
+from aiogram import Bot, Router
 from src.data.data_for_bot import HelloMessage
 from src.database.db_usage import Database
-from src.keyboards.replymarkup import ReplyKeyboards
-from aiogram.fsm.context import FSMContext
-from src.utils.validator import Validator
-from src.keyboards.inlinemarkup import InlineKeyboards
 
 router = Router()
 
